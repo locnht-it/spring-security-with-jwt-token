@@ -19,7 +19,7 @@ Content-Type: application/json
 
 {
     "author" : "Loc",
-    "isbn"" : "12345"
+    "isbn" : "12345"
 }
 
 ### Update one book
@@ -30,7 +30,7 @@ Content-Type: application/json
 {
     "id" : 1,
     "author" : "Loc",
-    "isbn"" : "12345"
+    "isbn" : "12345"
 }
 
 ### Query the Books one more time
